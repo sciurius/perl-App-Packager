@@ -283,8 +283,6 @@ You can find documentation for this module with the perldoc command.
 Please report any bugs or feature requests using the issue tracker on
 GitHub.
 
-=back
-
 =head1 ACKNOWLEDGEMENTS
 
 This module was inspired by Mark Dootson's Cava packager.
